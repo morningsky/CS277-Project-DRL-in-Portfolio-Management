@@ -3,7 +3,7 @@ CS277 Deep Reinforcement Learning in Portfolio Management
 ## Introduction
 * This repo is part of CS 277 project Deep Reinforcement Learning in Portfolio Management.
 * It is the implement of Deep Deterministic Policy Gradient part.
-* The data preprocessing part can be see in https://github.com/WJie12/autotrading_DQN .
+* The data preprocessing part can be see in https://github.com/WJie12/autotrading_preprocessing .
 * The DQN part can be see in https://github.com/WJie12/autotrading_DQN .
 
 ## Dataset
